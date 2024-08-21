@@ -1,7 +1,7 @@
     /*
             Calculate Circle Area using Java Example
             This Calculate Circle Area using Java Example shows how to calculate
-            area of circle using it's radius.
+            area of circle using it's radius..
     */
     import java.io.BufferedReader;
     import java.io.IOException;
