@@ -47,7 +47,7 @@
     }
      
     /*
-    Output of Calculate Circle Area using Java Example would be
+    Output of Calculate Circle Area using the Java Example would be
     Please enter radius of a circle
     19
     Area of a circle is 1134.1149479459152
